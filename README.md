@@ -1,4 +1,3 @@
 ## PRIMERA OPCION
-#> [!NOTE]
+#> [!NOTE] Presentación  de la tarea del equipo 1
 > ----------
-nueva opcion
